@@ -1,0 +1,13 @@
+#python specific
+*.pyc
+
+#misc
+__pycache__
+
+## generic files to ignore
+*~
+*.lock
+*.DS_Store
+*.swap
+*.out
+*.ini
